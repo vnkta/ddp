@@ -1,0 +1,46 @@
+Season,Var,Type,Value
+2014,sp,Alpine,9004000
+2013,sp,Alpine,8243000
+2012,sp,Alpine,10201000
+2011,sp,Alpine,11504000
+2010,sp,Alpine,10919000
+2014,sp,Snowboarding,7339000
+2013,sp,Snowboarding,7351000
+2012,sp,Snowboarding,7579000
+2011,sp,Snowboarding,8196000
+2010,sp,Snowboarding,7421000
+2014,sp,Cross Country,4291000
+2013,sp,Cross Country,3307000
+2012,sp,Cross Country,4318000
+2011,sp,Cross Country,4530000
+2010,sp,Cross Country,4157000
+2014,ssv,Northeast,13.4
+2013,ssv,Northeast,13.3
+2012,ssv,Northeast,11
+2011,ssv,Northeast,13.9
+2010,ssv,Northeast,13.4
+2014,ssv,Southeast,5.8
+2013,ssv,Southeast,5.2
+2012,ssv,Southeast,4.4
+2011,ssv,Southeast,5.8
+2010,ssv,Southeast,6
+2014,ssv,Midwest,7.7
+2013,ssv,Midwest,7.1
+2012,ssv,Midwest,6.4
+2011,ssv,Midwest,7.8
+2010,ssv,Midwest,7.7
+2014,ssv,Rockies,21.1
+2013,ssv,Rockies,19.5
+2012,ssv,Rockies,19.1
+2011,ssv,Rockies,20.9
+2010,ssv,Rockies,20.4
+2014,ssv,Pacific,8.5
+2013,ssv,Pacific,11.6
+2012,ssv,Pacific,10
+2011,ssv,Pacific,12.2
+2010,ssv,Pacific,12.3
+2014,ssv,Total,56.5
+2013,ssv,Total,56.6
+2012,ssv,Total,51
+2011,ssv,Total,60.5
+2010,ssv,Total,59.8
